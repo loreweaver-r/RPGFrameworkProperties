@@ -10,7 +10,8 @@ The directory where Genesis stores your data can be found in the Genesis setting
 
 In your data directory should be a subdirectory named `custom`. Within create a subdirectory named `shadowrun6`. There create a file named `fallback-help.properties`.
 
-E.g. on Windows this might look like: `C:\Users\Stefan\rpgframework\custom\shadowrun6\fallback-help.properties`
+On Windows this might look like: `C:\Users\Stefan\rpgframework\custom\shadowrun6\fallback-help.properties`
+
 On Linux this might look like `/home/stefan/rpgframework/custom/shadowrun6/fallback-help.properties`
 
 ### Write your text
